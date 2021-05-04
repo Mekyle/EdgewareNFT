@@ -1,10 +1,10 @@
 {
-    "name": "start",
+    "name": "EdgewareNFT",
     "version": "0.0.1",
-    "description": "A way to start web applications",
+    "description": "Create NFT's on Edgeware; Easy.",
     "private": true,
     "license": "MIT",
-    "author": "@davi-mbatista",
+    "author": "@mekyle",
     "scripts": {
         "start": "webpack serve --config webpack/start.js",
         "build": "webpack --config webpack/build.js"
@@ -38,6 +38,7 @@
         "webpack-merge": "5.7.3"
     },
     "dependencies": {
+        "@polkadot/api": "^4.8.1",
         "svelte": "3.32.3"
     },
     "babel": {
