@@ -1,5 +1,6 @@
 <script>
-    
+    import { ApiPromise, WsProvider } from '@polkadot/api';
+    const wsProvider = new WsProvider('wss://mainnet1.edgewa.re');
 </script>
 <div class="min-w-screen min-h-screen bg-gray-900 flex items-center justify-center px-5">
     <div class="lg:2/6 xl:w-2/4 mt-20 lg:mt-40 lg:ml-16 text-left">
