@@ -1,10 +1,9 @@
-# svelte-tailwind
-A project template using Svelte, Tailwind CSS, PostCSS and Webpack
-
-The base webpack configuration is based on [start template project 🎒](https://github.com/davi-mbatista/start)
+# EdgewareNFT
+A basic NFT project to deploy and view NFT's on Edgeware
 
 To run locally
 ````bash
+npm i
 npm run start
 ````
 
