@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div class="min-w-screen min-h-screen bg-gray-900 flex items-center justify-center px-5">
     <div class="lg:2/6 xl:w-2/4 mt-20 lg:mt-40 lg:ml-16 text-left">
         <button class="mt-6 px-8 py-4 rounded-full font-normal tracking-wide bg-blue-500 text-white outline-none focus:outline-none hover:shadow-lg hover:from-blue-700 transition duration-200 ease-in-out">
@@ -80,14 +79,3 @@
         </div>
     </div>
 </div>
-=======
-<script>
-</script>
-
-<!--This wallet connects to walletconnect and allows a user to log in through whatever login provider they want-->
-<div class="relative">
-    <div class="absolute top-0 right-0">
-        <button class="border-2 px-20 py-4 rounded-full text-white bg-blue-500">Connect wallet</button>
-    </div>
-</div>
->>>>>>> 227e9087b993f8afcbe5acf568b4e1e2565121c0
