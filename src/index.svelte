@@ -1,3 +1,6 @@
+<script>
+    
+</script>
 <div class="min-w-screen min-h-screen bg-gray-900 flex items-center justify-center px-5">
     <div class="lg:2/6 xl:w-2/4 mt-20 lg:mt-40 lg:ml-16 text-left">
         <button class="mt-6 px-8 py-4 rounded-full font-normal tracking-wide bg-blue-500 text-white outline-none focus:outline-none hover:shadow-lg hover:from-blue-700 transition duration-200 ease-in-out">
